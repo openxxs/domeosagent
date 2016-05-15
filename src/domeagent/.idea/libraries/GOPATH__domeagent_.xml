@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;domeagent&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../simplemath" />
+      <root url="file://$PROJECT_DIR$/../calc" />
+      <root url="file://$PROJECT_DIR$/../learn" />
+      <root url="file://$PROJECT_DIR$/../portScan" />
+      <root url="file://$PROJECT_DIR$/../distribution" />
+      <root url="file://$PROJECT_DIR$/../install_tmp.sh" />
+      <root url="file://$PROJECT_DIR$/../bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../.gitignore" />
+      <root url="file://$PROJECT_DIR$/../httptest" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../.DS_Store" />
+      <root url="file://$PROJECT_DIR$/../code.google.com" />
+      <root url="file://$PROJECT_DIR$/../.git" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../domedaemon" />
+      <root url="file://$PROJECT_DIR$/../sockettest" />
+      <root url="file://$PROJECT_DIR$/../websocket" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../mkAgentDir" />
+      <root url="file://$PROJECT_DIR$/../agent" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../github.com/golang/protobuf/proto/testdata" />
+      <root url="file://$PROJECT_DIR$/../learn/.idea" />
+      <root url="file://$PROJECT_DIR$/../distribution/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/nsf/gocode/_goremote" />
+      <root url="file://$PROJECT_DIR$/../github.com/docker/docker/pkg/archive/testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/nsf/gocode/_testing" />
+      <root url="file://$PROJECT_DIR$/../code.google.com/p/goprotobuf/proto/testdata" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/nsf/gocode/.git" />
+      <root url="file://$PROJECT_DIR$/../distribution/Godeps/_workspace" />
+      <root url="file://$PROJECT_DIR$/../github.com/docker/docker/vendor/src/code.google.com/p/go/src/pkg/archive/tar/testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/prometheus/client_golang/text/testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/nsf/gocode/_gccgo" />
+    </excluded>
+  </library>
+</component>
